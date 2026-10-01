@@ -25,5 +25,12 @@ Two files are equals!
 则两个文件内容相等。否则，两个文件内容不相等。
 ## 何意味
 点击项目右上角的Star按钮，谢谢！
-## Star情况
-![Image](image1.png)
+## Star History
+
+<a href="https://www.star-history.com/?repos=programmer-null%2Ftext-diff&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=programmer-null/text-diff&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=programmer-null/text-diff&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=programmer-null/text-diff&type=date&legend=top-left" />
+ </picture>
+</a>
